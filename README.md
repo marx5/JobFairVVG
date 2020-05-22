@@ -11,4 +11,5 @@
 </br>
 <p>Link na web aplikaciju <a href="https://apex.oracle.com/pls/apex/dbp_project/r/jobfair/home">JobFair VVG</a></p>
 </br>
+<p>Link na <a href="https://www.youtube.com/watch?v=_c2RDbboUUU">demo</a></p>
 <p><b>Uživajte!</b></p>
