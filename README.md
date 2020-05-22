@@ -13,3 +13,4 @@
 </br>
 <p>Link na <a href="https://www.youtube.com/watch?v=_c2RDbboUUU" target="_blank">demo</a></p>
 <p><b>Uživajte!</b></p>
+<p>Upozorenje: poziv APIa nekada ne prođe iz prve pa je potrebno osvježiti stranicu!</p>
