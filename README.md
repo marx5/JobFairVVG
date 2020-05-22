@@ -5,7 +5,7 @@
 </br>
 <p>Projekt je napravljen u ORACLE APEX frameworku.</p>
 </br>
-<p>Za potrebe projekta je korišten github API kao izvor vanjskih oglasa za posao. Također je moguće dinamički pretraživati preko RESTa.</p>
+<p>Za potrebe projekta je korišten github API kao izvor vanjskih oglasa za posao. Također je moguće dinamički pretraživati preko APIa.</p>
 </br>
 <p> Link na <a href="https://jobs.github.com/api">github api</a></p>
 </br>
