@@ -7,9 +7,9 @@
 </br>
 <p>Za potrebe projekta je korišten github API kao izvor vanjskih oglasa za posao. Također je moguće dinamički pretraživati preko APIa.</p>
 </br>
-<p> Link na <a href="https://jobs.github.com/api">github api</a></p>
+<p> Link na <a href="https://jobs.github.com/api" target="_blank">github api</a></p>
 </br>
-<p>Link na web aplikaciju <a href="https://apex.oracle.com/pls/apex/dbp_project/r/jobfair/home">JobFair VVG</a></p>
+<p>Link na web aplikaciju <a href="https://apex.oracle.com/pls/apex/dbp_project/r/jobfair/home" target="_blank">JobFair VVG</a></p>
 </br>
-<p>Link na <a href="https://www.youtube.com/watch?v=_c2RDbboUUU">demo</a></p>
+<p>Link na <a href="https://www.youtube.com/watch?v=_c2RDbboUUU" target="_blank">demo</a></p>
 <p><b>Uživajte!</b></p>
